@@ -1,6 +1,6 @@
 # HTTP Server - Koitlin
 ## Intro to Android Development - Homework 1 
-![Expected image of assignment](images/Assignment.PNG)
+![Expected image of assignment](images/Assignment.png)
 ### **HTTP ENDPOINTS**
 ![Expected image of endpoints](images/REST_ACTIONS.PNG)
 ### **Example Post Request**
@@ -9,5 +9,5 @@
 * UUID is generated programatically
 ### **Example GET Request**
 * `http://0.0.0.0:8080/ClaimService/getAll`\
-![Expected image of example get request](images/get_request.PNG)
+![Expected image of example get request](images/get_request.png)
 
