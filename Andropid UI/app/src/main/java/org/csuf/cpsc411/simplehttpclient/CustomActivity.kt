@@ -12,7 +12,6 @@ import android.widget.TextView
 
 open class CustomActivity : AppCompatActivity() {
     lateinit var claimService: ClaimService
-    lateinit var claimList : MutableList<Claim>
 
     // XML attributes
     lateinit var claimTitleView : EditText
